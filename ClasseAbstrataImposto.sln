@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseAbstrataImposto", "ClasseAbstrataImposto\ClasseAbstrataImposto.csproj", "{A97BBF2E-5A92-4A23-BBCF-95C56D4D101D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97BBF2E-5A92-4A23-BBCF-95C56D4D101D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97BBF2E-5A92-4A23-BBCF-95C56D4D101D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97BBF2E-5A92-4A23-BBCF-95C56D4D101D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97BBF2E-5A92-4A23-BBCF-95C56D4D101D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29CA4FAB-9D73-40FB-8E17-BFA016139C57}
+	EndGlobalSection
+EndGlobal
